@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-06-18T22:54:17.101322+00:00",
-  "data_referencia": "2026-06-18",
+  "updated_at": "2026-06-19T12:43:26.397027+00:00",
+  "data_referencia": "2026-06-19",
   "airport_icao": "SBJI",
   "airport_name": "SBJI",
   "airport_info": {
-    "sg_aerodromo_icao": "SBFZ",
-    "sg_aerodromo_iata": "FOR",
-    "descricao": "PINTO MARTINS - FORTALEZA - CE - BRASIL"
+    "sg_aerodromo_icao": "SBJI",
+    "sg_aerodromo_iata": "JPR",
+    "descricao": "JI-PARANÁ - JI-PARANÁ - RO - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
     {
-      "callsign": "AZU4680",
-      "numero_voo": "4680",
+      "callsign": "AZU2644",
+      "numero_voo": "2644",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "E295",
@@ -22,22 +22,22 @@
       "etapa": "1",
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBKP",
+      "origem_icao": "SBCY",
       "destino_icao": "SBJI",
-      "partida_iso": "2026-06-18T14:00:00-03:00",
-      "chegada_iso": "2026-06-18T17:15:00-03:00",
-      "partida_brt": "14:00",
-      "chegada_brt": "17:15",
+      "partida_iso": "2026-06-19T12:05:00-03:00",
+      "chegada_iso": "2026-06-19T13:35:00-03:00",
+      "partida_brt": "12:05",
+      "chegada_brt": "13:35",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBKP",
-      "rota_nome": "Campinas / Viracopos"
+      "rota": "SBCY",
+      "rota_nome": "Cuiaba"
     }
   ],
   "departures": [
     {
-      "callsign": "AZU4681",
-      "numero_voo": "4681",
+      "callsign": "AZU2645",
+      "numero_voo": "2645",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "E295",
@@ -47,15 +47,15 @@
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
       "origem_icao": "SBJI",
-      "destino_icao": "SBKP",
-      "partida_iso": "2026-06-18T17:55:00-03:00",
-      "chegada_iso": "2026-06-18T20:55:00-03:00",
-      "partida_brt": "17:55",
-      "chegada_brt": "20:55",
+      "destino_icao": "SBCY",
+      "partida_iso": "2026-06-19T14:15:00-03:00",
+      "chegada_iso": "2026-06-19T15:40:00-03:00",
+      "partida_brt": "14:15",
+      "chegada_brt": "15:40",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBKP",
-      "rota_nome": "Campinas / Viracopos"
+      "rota": "SBCY",
+      "rota_nome": "Cuiaba"
     }
   ]
 }
