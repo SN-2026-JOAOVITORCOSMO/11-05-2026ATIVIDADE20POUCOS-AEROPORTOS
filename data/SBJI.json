@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-23T17:13:35.903788+00:00",
+  "updated_at": "2026-06-23T22:09:27.399265+00:00",
   "data_referencia": "2026-06-23",
   "airport_icao": "SBJI",
   "airport_name": "SBJI",
   "airport_info": {
-    "sg_aerodromo_icao": "SBPS",
-    "sg_aerodromo_iata": "BPS",
-    "descricao": "PORTO SEGURO - PORTO SEGURO - BA - BRASIL"
+    "sg_aerodromo_icao": "SBJI",
+    "sg_aerodromo_iata": "JPR",
+    "descricao": "JI-PARANÁ - JI-PARANÁ - RO - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
