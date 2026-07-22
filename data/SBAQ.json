@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-22T16:17:17.121548+00:00",
+  "updated_at": "2026-07-22T22:00:57.821594+00:00",
   "data_referencia": "2026-07-22",
   "airport_icao": "SBAQ",
   "airport_name": "SBAQ",
   "airport_info": {
-    "sg_aerodromo_icao": "SBAQ",
-    "sg_aerodromo_iata": "AQA",
-    "descricao": "BARTOLOMEU DE GUSMÃO - ARARAQUARA - SP - BRASIL"
+    "sg_aerodromo_icao": "SBIL",
+    "sg_aerodromo_iata": "IOS",
+    "descricao": "BAHIA - JORGE AMADO - ILHÉUS - BA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
