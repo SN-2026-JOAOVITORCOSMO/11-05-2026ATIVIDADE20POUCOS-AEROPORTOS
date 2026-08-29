@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-29T03:00:19.246384+00:00",
-  "data_referencia": "2026-08-28",
+  "updated_at": "2026-08-29T14:07:37.149231+00:00",
+  "data_referencia": "2026-08-29",
   "airport_icao": "SBJI",
   "airport_name": "SBJI",
   "airport_info": {
@@ -12,8 +12,8 @@
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
     {
-      "callsign": "AZU2644",
-      "numero_voo": "2644",
+      "callsign": "AZU4680",
+      "numero_voo": "4680",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "E295",
@@ -22,22 +22,22 @@
       "etapa": "1",
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
-      "origem_icao": "SBCY",
+      "origem_icao": "SBKP",
       "destino_icao": "SBJI",
-      "partida_iso": "2026-08-28T11:55:00-03:00",
-      "chegada_iso": "2026-08-28T13:25:00-03:00",
-      "partida_brt": "11:55",
-      "chegada_brt": "13:25",
+      "partida_iso": "2026-08-29T13:50:00-03:00",
+      "chegada_iso": "2026-08-29T17:10:00-03:00",
+      "partida_brt": "13:50",
+      "chegada_brt": "17:10",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBCY",
-      "rota_nome": "Cuiaba"
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
     }
   ],
   "departures": [
     {
-      "callsign": "AZU2645",
-      "numero_voo": "2645",
+      "callsign": "AZU4681",
+      "numero_voo": "4681",
       "airline_icao": "AZU",
       "airline": "Azul",
       "equipamento_icao": "E295",
@@ -47,15 +47,15 @@
       "tipo_operacao": "Domestico",
       "tipo_servico": "REGULAR DE PASSAGEIROS DOMÉSTICA",
       "origem_icao": "SBJI",
-      "destino_icao": "SBCY",
-      "partida_iso": "2026-08-28T14:05:00-03:00",
-      "chegada_iso": "2026-08-28T15:30:00-03:00",
-      "partida_brt": "14:05",
-      "chegada_brt": "15:30",
+      "destino_icao": "SBKP",
+      "partida_iso": "2026-08-29T18:05:00-03:00",
+      "chegada_iso": "2026-08-29T21:00:00-03:00",
+      "partida_brt": "18:05",
+      "chegada_brt": "21:00",
       "status": "programado",
       "fonte": "SIROS/ANAC",
-      "rota": "SBCY",
-      "rota_nome": "Cuiaba"
+      "rota": "SBKP",
+      "rota_nome": "Campinas / Viracopos"
     }
   ]
 }
