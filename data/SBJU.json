@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-30T18:21:35.046853+00:00",
+  "updated_at": "2026-08-30T23:03:15.959294+00:00",
   "data_referencia": "2026-08-30",
   "airport_icao": "SBJU",
   "airport_name": "Juazeiro do Norte",
   "airport_info": {
-    "sg_aerodromo_icao": "SBRJ",
-    "sg_aerodromo_iata": "SDU",
-    "descricao": "SANTOS DUMONT - RIO DE JANEIRO - RJ - BRASIL"
+    "sg_aerodromo_icao": "SBJU",
+    "sg_aerodromo_iata": "JDO",
+    "descricao": "ORLANDO BEZERRA DE MENEZES - JUAZEIRO DO NORTE - CE - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
