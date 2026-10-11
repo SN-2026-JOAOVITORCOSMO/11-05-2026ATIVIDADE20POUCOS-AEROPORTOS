@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-10-10T19:08:17.190462+00:00",
+  "updated_at": "2026-10-11T00:03:32.104926+00:00",
   "data_referencia": "2026-10-10",
   "airport_icao": "SBBE",
   "airport_name": "Belem",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBBE",
-    "sg_aerodromo_iata": "BEL",
-    "descricao": "INTERNACIONAL DE BELÉM/VAL DE CANS/JÚLIO CEZAR RIBEIRO - BELÉM - PA - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
